@@ -1,0 +1,13 @@
+buổi 1
+ - compoment
+ + Staleful compunent class
+ + Stateless compunent function
+
+ + Bài tập 1: tạo ra file indext là file cha của tất cả các thành phần bên trong
+    - Header compunent
+    - Conten compunent
+    - Sidebar compunent
+    - Forter compunent
++ Bài tập 2
+
+
