@@ -8,6 +8,11 @@ buổi 1
     - Conten compunent
     - Sidebar compunent
     - Forter compunent
-+ Bài tập 2
++ Bài tập 2 compoment
+   - Header 
+   - Carousel
+   - Content
+   - Footer
+
 
 
